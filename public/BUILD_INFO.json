@@ -1,0 +1,14 @@
+{
+  "build": {
+    "version": "5.117.0-SNAPSHOT",
+    "timestamp": 1744329604195,
+    "time": "2025-04-11T00:00:04.195Z",
+    "clean": false
+  },
+  "jenkins": null,
+  "commit": {
+    "hash": "8b7ed384cfd371b04f31d6e47635a766cd7cc35a",
+    "author": "yonghyun.kim",
+    "date": "Thu Apr 10 16:13:06 2025 +0900"
+  }
+}
