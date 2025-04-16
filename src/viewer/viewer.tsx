@@ -7,7 +7,7 @@ const Viewer = () => {
         initMuPDFWebViewer('#viewer', 'sample.pdf', { licenseKey: '5z9yalNzmu1f+ta2ta2a6ja4' });
     }, []);
 
-    return <div id="viewer" style={{ height: '100vh' }}></div>
+    return <div id="viewer" style={{ height: '95vh' }}></div>
 }
 
 export default Viewer;
